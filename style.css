@@ -183,12 +183,12 @@ p{
     font-size: 30px;
 }
 
-.chat a{
+.chat a {
         color: white;
         border-radius: 5px;
         text-decoration: none;
         padding: 10px 10px;
-        background: linear-gradient(45deg, deeppink, purple );
+        background: linear-gradient(45deg, rgb(253, 106, 106), rgb(255, 157, 0) );
     }
     .chat {
         width: 25%;
@@ -202,18 +202,18 @@ p{
     width: 50%;
     margin: auto;
 }
-.footer {
+.last-section{
     width: 100%;
 }
 
-.footer-container {
+.contact-info {
     width: 60%;
     height: 100px;
     margin: auto;
     text-align: center;
 }
 
-.footer-container img {
+.contact-info img {
     width: 50px;
     height: 50px;
 }
